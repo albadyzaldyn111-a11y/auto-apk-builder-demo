@@ -12,5 +12,6 @@ dependencyResolutionManagement {
         mavenCentral()
     }
 }
+
 rootProject.name = "Auto APK Builder Demo"
-include ':app'
+include(":app")
